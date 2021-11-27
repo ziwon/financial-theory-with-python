@@ -1,4 +1,4 @@
-# financial-theory-with-python
+# Financial Theory With Python
 
 My Journey into Finance with Python
 
